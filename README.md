@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Mahendran-C/stats-preview-card-component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mahendran-c.github.io/stats-preview-card-component/]
 
 ## My process
 
