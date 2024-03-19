@@ -16,7 +16,7 @@
     /* Primary */
     --veryDarkBlue:hsl(233,47%,7%); /* main background */
     --darkDesaturatedBlue:hsl(244,38%,16%); /*card background*/
-    --softViolet:hsl(277, 64%, 61%);  /* accent */
+    --softViolet:hsl(277, 53%, 37%);  /* accent */
 
     /* neutral */
     --white:hsl(0,0%,100%); /* main heading, stats */
@@ -129,7 +129,7 @@ body{
     }
     .card{
         display: flex;
-        margin: 10rem 12rem;  
+        margin: 12rem 10rem;  
     }
     .hero{
         width: 50%;
@@ -156,7 +156,7 @@ body{
         text-align: start;
     }
     .text-content>h1{
-        font-size: 2.3rem;
+        /* font-size: 2.3rem; */
         padding-bottom: 1.5rem;
 
     }
